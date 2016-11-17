@@ -1,9 +1,8 @@
 # Aula 1 de AngularJS 2
 
 Seja bem vindo a primeira aula de AngularJS 2!
-Primeiro é necessário que você instale o Nodejs e o npm através do site https://nodejs.org
-
-Logo após baixar o site, crie uma pasta chamada projeto1.
+Primeiro é necessário que você instale o Nodejs e o npm através do site https://nodejs.org.
+Logo após baixar o Nodejs, crie uma pasta chamada projeto1.
 Nessa pasta nós vamos criar nossos arquivos para o nosso primeiro projeto com AngularJS.
 
 Bom crie primeiro um arquivo na raiz de projeto1 chamado
@@ -207,3 +206,8 @@ Agora vamos criar o index.html com o seguinte código:
 ~~~
 
 Pronto! Agora basta executar o comando abaixo e acessar o http://localhost:3000 que você verá o seu primeiro projeto em AngularJS funcionando.
+
+Listagem em AngularJS
+===
+Agora vamos criar um exemplo simples de uma listagem em AngularJS.
+Primeiro precisamos criar o nosso objeto Usuario.
